@@ -24,5 +24,5 @@
 ---
 
 📫 联系我：  
-[![Email](https://img.shields.io/badge/-邮箱-D14836?logo=gmail)](mailto:你的邮箱)  
+[![Email](https://img.shields.io/badge/-邮箱-D14836?logo=gmail)](mailto:3336919393@qq.com)  
 [![WeChat](https://img.shields.io/badge/-微信-07C160?logo=wechat)](https://img.shields.io/badge/微信号-你的微信-green)
